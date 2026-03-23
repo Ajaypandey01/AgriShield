@@ -5,3 +5,4 @@ pillow
 requests
 gtts
 python-dotenv
+gunicorn
